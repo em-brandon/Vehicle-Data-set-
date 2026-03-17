@@ -1,0 +1,301 @@
+make,model,year,engine_cc,fuel_type,transmission,start_stop,trim,battery_group,battery_type,capacity_ah,voltage,cca,length_mm,width_mm,height_mm,terminal_type,hold_down,polarity,source
+Mazda,CX-5,2015,1600,Petrol,Auto,Yes,Sport,AGM70,AGM,70,12,691,315,175,175,Top Post,B13,R,Manufacturer Manual
+Kia,Sportage,2012,1500,Petrol,Auto,Yes,Base,AGM80,AGM,80,12,676,315,175,175,Top Post,B13,R,Bosch Catalog
+Volkswagen,Tiguan,2017,1500,Petrol,Auto,No,Base,DIN55,SMF,55,12,660,242,173,190,Top Post,B13,R,Battery Finder Database
+BMW,320i,2020,2500,Diesel,Manual,Yes,Base,EFB65,EFB,65,12,768,278,173,225,Top Post,B13,R,Exide Catalog
+Volkswagen,Tiguan,2024,2500,Petrol,Auto,No,Premium,DIN44,SMF,44,12,546,260,175,190,Top Post,B13,L,Exide Catalog
+Kia,Cerato,2021,2000,Diesel,Manual,No,Premium,DIN55,SMF,55,12,420,242,175,175,Top Post,B13,L,Manufacturer Manual
+Toyota,Hilux,2013,1600,Diesel,Auto,Yes,Sport,AGM70,AGM,70,12,660,278,175,225,Top Post,B13,R,Bosch Catalog
+BMW,X3,2018,2500,Diesel,Manual,No,Touring,DIN44,SMF,44,12,719,315,175,190,Top Post,B13,L,Bosch Catalog
+Nissan,Qashqai,2014,3000,Diesel,Manual,No,Touring,DIN44,SMF,44,12,548,260,173,190,Top Post,B13,R,Manufacturer Manual
+Honda,Accord,2024,3000,Diesel,Auto,No,Standard,DIN55,SMF,55,12,473,278,173,225,Top Post,B13,R,Battery Finder Database
+BMW,X5,2015,1600,Diesel,Manual,Yes,Sport,AGM70,AGM,70,12,550,278,173,175,Top Post,B13,L,Battery Finder Database
+Mazda,CX-9,2020,2200,Diesel,Manual,No,Sport,DIN44,SMF,44,12,454,278,173,175,Top Post,B13,R,Bosch Catalog
+Mazda,Axela,2024,3000,Diesel,Manual,No,Base,DIN44,SMF,44,12,446,278,175,190,Top Post,B13,L,Bosch Catalog
+Kia,Sorento,2019,1300,Diesel,Manual,No,Base,DIN44,SMF,44,12,782,260,173,175,Top Post,B13,L,Exide Catalog
+BMW,X3,2017,1600,Petrol,Auto,Yes,Sport,EFB65,EFB,65,12,675,315,173,175,Top Post,B13,L,Exide Catalog
+Mercedes,GLA,2016,2500,Petrol,Manual,No,Premium,DIN55,SMF,55,12,502,315,175,175,Top Post,B13,L,Bosch Catalog
+Honda,Civic,2013,1600,Petrol,Auto,Yes,Base,EFB65,EFB,65,12,539,242,175,190,Top Post,B13,R,Battery Finder Database
+Nissan,Navara,2013,2000,Diesel,Manual,Yes,Premium,EFB60,EFB,60,12,549,278,173,225,Top Post,B13,L,Bosch Catalog
+Volkswagen,Polo,2014,2200,Diesel,Auto,Yes,Base,AGM80,AGM,80,12,499,260,173,175,Top Post,B13,R,Bosch Catalog
+Hyundai,Santa Fe,2021,1500,Petrol,Manual,Yes,Base,AGM80,AGM,80,12,795,260,173,175,Top Post,B13,L,Manufacturer Manual
+BMW,118i,2013,1600,Petrol,Auto,Yes,Standard,EFB65,EFB,65,12,579,260,175,225,Top Post,B13,R,Bosch Catalog
+Hyundai,i20,2019,1300,Diesel,Manual,No,Sport,DIN44,SMF,44,12,746,242,173,190,Top Post,B13,L,Exide Catalog
+Honda,Civic,2024,3000,Petrol,Auto,No,Standard,DIN44,SMF,44,12,744,315,173,175,Top Post,B13,L,Bosch Catalog
+Mazda,CX-5,2016,1500,Diesel,Manual,No,Standard,DIN44,SMF,44,12,440,260,173,225,Top Post,B13,L,Bosch Catalog
+Mercedes,A200,2012,2500,Petrol,Auto,Yes,Base,EFB65,EFB,65,12,615,242,175,175,Top Post,B13,L,Bosch Catalog
+BMW,X3,2019,1300,Petrol,Manual,No,Sport,DIN55,SMF,55,12,456,278,173,190,Top Post,B13,R,Exide Catalog
+Honda,CR-V,2022,2500,Diesel,Manual,Yes,Standard,EFB60,EFB,60,12,516,315,175,190,Top Post,B13,R,Bosch Catalog
+Volkswagen,Tiguan,2020,3000,Petrol,Auto,No,Standard,DIN44,SMF,44,12,467,260,173,175,Top Post,B13,L,Exide Catalog
+Toyota,Axio,2021,2200,Petrol,Manual,No,Sport,DIN44,SMF,44,12,674,242,173,225,Top Post,B13,R,Exide Catalog
+Honda,CR-V,2014,2000,Petrol,Auto,Yes,Base,EFB60,EFB,60,12,692,260,173,175,Top Post,B13,L,Manufacturer Manual
+Honda,Accord,2015,1500,Diesel,Manual,No,Premium,DIN55,SMF,55,12,510,260,175,190,Top Post,B13,L,Bosch Catalog
+Mazda,CX-3,2017,1800,Petrol,Auto,No,Standard,DIN55,SMF,55,12,510,260,173,175,Top Post,B13,L,Battery Finder Database
+Mercedes,A200,2015,1300,Diesel,Auto,No,Standard,DIN44,SMF,44,12,798,278,175,190,Top Post,B13,R,Exide Catalog
+Nissan,Navara,2017,1600,Petrol,Manual,No,Sport,DIN55,SMF,55,12,673,260,175,225,Top Post,B13,L,Battery Finder Database
+Mercedes,A200,2012,2000,Diesel,Manual,No,Touring,DIN55,SMF,55,12,716,315,175,225,Top Post,B13,R,Exide Catalog
+Mazda,CX-5,2019,2200,Petrol,Manual,No,Sport,DIN55,SMF,55,12,717,278,175,175,Top Post,B13,L,Bosch Catalog
+Honda,CR-V,2022,1800,Petrol,Auto,No,Base,DIN44,SMF,44,12,741,278,173,225,Top Post,B13,R,Manufacturer Manual
+Mercedes,A200,2021,1300,Petrol,Auto,No,Base,DIN55,SMF,55,12,603,242,173,175,Top Post,B13,L,Bosch Catalog
+Mazda,CX-9,2021,1800,Petrol,Manual,No,Standard,DIN55,SMF,55,12,794,242,173,225,Top Post,B13,L,Battery Finder Database
+Subaru,Legacy,2013,2500,Petrol,Auto,Yes,Touring,AGM80,AGM,80,12,485,260,175,225,Top Post,B13,L,Battery Finder Database
+Subaru,Legacy,2023,2500,Petrol,Auto,No,Standard,DIN55,SMF,55,12,618,278,173,175,Top Post,B13,L,Bosch Catalog
+BMW,320i,2012,2500,Petrol,Auto,Yes,Touring,AGM70,AGM,70,12,461,315,173,225,Top Post,B13,R,Bosch Catalog
+Kia,Rio,2022,3000,Diesel,Manual,Yes,Premium,AGM70,AGM,70,12,757,278,175,175,Top Post,B13,L,Battery Finder Database
+Toyota,Prado,2023,3000,Petrol,Manual,No,Standard,DIN44,SMF,44,12,434,278,173,190,Top Post,B13,R,Bosch Catalog
+Hyundai,Elantra,2020,2000,Diesel,Auto,Yes,Base,AGM80,AGM,80,12,731,242,173,225,Top Post,B13,R,Manufacturer Manual
+Honda,Accord,2012,1600,Diesel,Auto,Yes,Base,EFB60,EFB,60,12,459,260,173,175,Top Post,B13,L,Bosch Catalog
+Toyota,Hilux,2022,1300,Diesel,Manual,No,Touring,DIN44,SMF,44,12,540,278,173,225,Top Post,B13,R,Exide Catalog
+Toyota,Prado,2015,1500,Diesel,Manual,Yes,Base,EFB60,EFB,60,12,605,242,175,190,Top Post,B13,L,Manufacturer Manual
+Toyota,Axio,2018,3000,Petrol,Auto,No,Touring,DIN55,SMF,55,12,676,278,175,225,Top Post,B13,L,Exide Catalog
+BMW,X3,2020,1300,Diesel,Auto,No,Standard,DIN55,SMF,55,12,767,242,175,175,Top Post,B13,L,Battery Finder Database
+Nissan,Note,2019,1300,Diesel,Auto,No,Sport,DIN55,SMF,55,12,430,260,175,175,Top Post,B13,L,Bosch Catalog
+Mazda,CX-5,2019,2500,Petrol,Manual,No,Sport,DIN55,SMF,55,12,714,242,173,190,Top Post,B13,L,Battery Finder Database
+Mazda,Demio,2021,2200,Petrol,Manual,Yes,Premium,EFB60,EFB,60,12,531,278,173,175,Top Post,B13,R,Battery Finder Database
+Mercedes,E300,2016,2500,Petrol,Manual,Yes,Touring,AGM80,AGM,80,12,545,242,173,190,Top Post,B13,L,Battery Finder Database
+BMW,X3,2021,1500,Petrol,Auto,No,Base,DIN55,SMF,55,12,677,242,175,190,Top Post,B13,R,Exide Catalog
+Volkswagen,Golf,2014,1500,Diesel,Auto,Yes,Standard,EFB60,EFB,60,12,603,260,175,175,Top Post,B13,L,Battery Finder Database
+Kia,Cerato,2019,1600,Diesel,Manual,No,Sport,DIN55,SMF,55,12,703,242,175,225,Top Post,B13,R,Battery Finder Database
+Nissan,X-Trail,2020,2500,Petrol,Auto,No,Touring,DIN55,SMF,55,12,452,260,175,225,Top Post,B13,R,Exide Catalog
+BMW,320i,2022,1800,Petrol,Auto,No,Sport,DIN44,SMF,44,12,430,242,175,175,Top Post,B13,L,Exide Catalog
+BMW,320i,2014,2500,Diesel,Manual,No,Premium,DIN44,SMF,44,12,477,242,173,175,Top Post,B13,L,Battery Finder Database
+Subaru,Legacy,2024,1300,Diesel,Auto,No,Premium,DIN44,SMF,44,12,654,242,173,190,Top Post,B13,R,Manufacturer Manual
+Subaru,Legacy,2017,1800,Petrol,Auto,Yes,Sport,EFB60,EFB,60,12,757,278,175,190,Top Post,B13,L,Exide Catalog
+Subaru,Impreza,2022,1300,Diesel,Manual,No,Premium,DIN44,SMF,44,12,422,260,175,190,Top Post,B13,R,Battery Finder Database
+Mazda,CX-5,2019,1500,Petrol,Auto,No,Standard,DIN44,SMF,44,12,633,278,173,225,Top Post,B13,L,Battery Finder Database
+Mazda,CX-5,2022,2000,Petrol,Manual,No,Sport,DIN55,SMF,55,12,654,315,175,225,Top Post,B13,L,Manufacturer Manual
+Honda,Fit,2012,2200,Petrol,Manual,Yes,Touring,EFB65,EFB,65,12,740,260,173,190,Top Post,B13,L,Exide Catalog
+Kia,Cerato,2024,1500,Petrol,Auto,No,Standard,DIN55,SMF,55,12,505,278,173,225,Top Post,B13,R,Exide Catalog
+Honda,Accord,2014,2000,Diesel,Auto,Yes,Base,AGM80,AGM,80,12,468,278,173,175,Top Post,B13,L,Battery Finder Database
+BMW,X5,2022,1800,Diesel,Auto,Yes,Premium,AGM70,AGM,70,12,667,242,175,190,Top Post,B13,L,Battery Finder Database
+Honda,Accord,2020,1300,Diesel,Auto,Yes,Sport,AGM70,AGM,70,12,467,278,173,225,Top Post,B13,R,Battery Finder Database
+Nissan,Navara,2012,2500,Petrol,Auto,Yes,Base,AGM80,AGM,80,12,440,260,175,175,Top Post,B13,R,Manufacturer Manual
+Hyundai,Elantra,2023,1800,Diesel,Auto,Yes,Sport,EFB60,EFB,60,12,438,242,173,175,Top Post,B13,R,Manufacturer Manual
+Volkswagen,Polo,2023,2500,Diesel,Manual,Yes,Sport,EFB60,EFB,60,12,502,278,175,225,Top Post,B13,L,Bosch Catalog
+Honda,Civic,2017,1600,Diesel,Manual,No,Standard,DIN44,SMF,44,12,652,278,175,190,Top Post,B13,R,Battery Finder Database
+BMW,X5,2016,1800,Petrol,Auto,No,Base,DIN55,SMF,55,12,438,242,175,225,Top Post,B13,R,Exide Catalog
+Nissan,Note,2020,3000,Petrol,Auto,No,Sport,DIN44,SMF,44,12,772,242,175,225,Top Post,B13,L,Battery Finder Database
+Mazda,Demio,2015,2500,Petrol,Auto,Yes,Touring,EFB60,EFB,60,12,656,278,175,190,Top Post,B13,R,Manufacturer Manual
+Kia,Cerato,2015,2000,Petrol,Manual,Yes,Standard,EFB65,EFB,65,12,639,315,173,190,Top Post,B13,L,Manufacturer Manual
+Volkswagen,Golf,2018,1600,Diesel,Manual,No,Sport,DIN55,SMF,55,12,478,242,175,175,Top Post,B13,L,Exide Catalog
+Toyota,Land Cruiser,2020,1300,Petrol,Auto,No,Premium,DIN55,SMF,55,12,545,260,173,175,Top Post,B13,L,Bosch Catalog
+Mazda,Axela,2024,1500,Petrol,Manual,Yes,Standard,EFB60,EFB,60,12,539,260,173,190,Top Post,B13,L,Battery Finder Database
+Volkswagen,Passat,2017,1300,Diesel,Manual,Yes,Base,AGM80,AGM,80,12,598,315,173,190,Top Post,B13,L,Exide Catalog
+Toyota,Land Cruiser,2014,1800,Petrol,Manual,No,Premium,DIN44,SMF,44,12,693,242,173,190,Top Post,B13,R,Bosch Catalog
+Subaru,Legacy,2023,1600,Diesel,Auto,No,Premium,DIN55,SMF,55,12,539,315,175,175,Top Post,B13,L,Manufacturer Manual
+Hyundai,Tucson,2021,3000,Petrol,Manual,No,Base,DIN44,SMF,44,12,503,242,175,175,Top Post,B13,R,Battery Finder Database
+Honda,CR-V,2020,1300,Petrol,Manual,No,Base,DIN44,SMF,44,12,724,315,175,190,Top Post,B13,R,Bosch Catalog
+BMW,X5,2023,3000,Diesel,Auto,Yes,Touring,EFB60,EFB,60,12,452,315,173,225,Top Post,B13,L,Battery Finder Database
+Kia,Cerato,2016,3000,Diesel,Auto,No,Premium,DIN55,SMF,55,12,615,315,173,175,Top Post,B13,L,Exide Catalog
+Mazda,Demio,2017,2200,Petrol,Manual,Yes,Standard,AGM70,AGM,70,12,676,315,175,190,Top Post,B13,R,Manufacturer Manual
+BMW,320i,2024,2200,Petrol,Manual,Yes,Sport,AGM70,AGM,70,12,423,242,175,225,Top Post,B13,R,Manufacturer Manual
+Nissan,Note,2021,1500,Diesel,Auto,Yes,Standard,AGM70,AGM,70,12,491,315,175,190,Top Post,B13,L,Exide Catalog
+Mazda,CX-5,2020,1600,Petrol,Manual,Yes,Premium,AGM80,AGM,80,12,520,260,175,225,Top Post,B13,L,Manufacturer Manual
+Volkswagen,Golf,2019,2000,Petrol,Auto,Yes,Standard,EFB60,EFB,60,12,779,260,175,225,Top Post,B13,L,Battery Finder Database
+Subaru,Forester,2020,1500,Diesel,Manual,Yes,Touring,AGM70,AGM,70,12,681,242,173,175,Top Post,B13,R,Exide Catalog
+BMW,X3,2014,2200,Petrol,Manual,No,Sport,DIN55,SMF,55,12,522,278,175,175,Top Post,B13,L,Battery Finder Database
+Mercedes,A200,2020,1300,Petrol,Auto,Yes,Standard,AGM70,AGM,70,12,640,242,173,225,Top Post,B13,L,Bosch Catalog
+Kia,Sorento,2013,3000,Petrol,Manual,Yes,Sport,AGM80,AGM,80,12,566,315,175,175,Top Post,B13,R,Battery Finder Database
+Hyundai,i20,2015,2000,Petrol,Manual,Yes,Standard,AGM70,AGM,70,12,562,260,173,190,Top Post,B13,L,Battery Finder Database
+Kia,Cerato,2013,3000,Diesel,Auto,Yes,Premium,EFB60,EFB,60,12,645,278,175,225,Top Post,B13,L,Battery Finder Database
+Volkswagen,Passat,2022,1300,Diesel,Auto,No,Touring,DIN44,SMF,44,12,584,260,175,190,Top Post,B13,R,Exide Catalog
+Hyundai,Santa Fe,2015,1300,Diesel,Manual,Yes,Premium,EFB60,EFB,60,12,702,260,175,175,Top Post,B13,L,Manufacturer Manual
+Mazda,CX-5,2012,1600,Petrol,Auto,Yes,Premium,AGM70,AGM,70,12,666,260,173,225,Top Post,B13,R,Exide Catalog
+Toyota,RAV4,2022,2200,Petrol,Manual,Yes,Base,AGM70,AGM,70,12,421,315,173,225,Top Post,B13,L,Battery Finder Database
+Volkswagen,Polo,2013,1800,Diesel,Manual,Yes,Sport,EFB60,EFB,60,12,583,260,175,225,Top Post,B13,L,Exide Catalog
+BMW,320i,2022,2200,Diesel,Manual,Yes,Premium,AGM70,AGM,70,12,585,260,175,190,Top Post,B13,L,Battery Finder Database
+Mazda,Axela,2023,2200,Diesel,Auto,No,Touring,DIN44,SMF,44,12,621,260,173,175,Top Post,B13,L,Bosch Catalog
+Mercedes,GLA,2019,1800,Diesel,Auto,Yes,Standard,EFB65,EFB,65,12,474,315,173,175,Top Post,B13,R,Exide Catalog
+Honda,CR-V,2021,2500,Petrol,Manual,No,Standard,DIN55,SMF,55,12,727,260,173,190,Top Post,B13,R,Bosch Catalog
+BMW,X5,2014,3000,Petrol,Auto,Yes,Standard,EFB65,EFB,65,12,568,242,173,190,Top Post,B13,L,Bosch Catalog
+Volkswagen,Polo,2014,2500,Diesel,Auto,Yes,Sport,AGM70,AGM,70,12,712,315,173,225,Top Post,B13,L,Manufacturer Manual
+Mazda,Axela,2012,1600,Diesel,Auto,Yes,Touring,EFB60,EFB,60,12,713,260,175,225,Top Post,B13,R,Bosch Catalog
+Mercedes,E300,2023,2000,Diesel,Manual,No,Standard,DIN55,SMF,55,12,788,260,173,190,Top Post,B13,L,Exide Catalog
+Kia,Rio,2014,1800,Diesel,Auto,No,Premium,DIN44,SMF,44,12,627,260,175,225,Top Post,B13,L,Manufacturer Manual
+Nissan,Note,2019,3000,Petrol,Auto,Yes,Premium,AGM70,AGM,70,12,790,260,173,190,Top Post,B13,L,Exide Catalog
+Nissan,Note,2021,1800,Petrol,Manual,No,Premium,DIN55,SMF,55,12,737,242,173,190,Top Post,B13,L,Bosch Catalog
+Nissan,X-Trail,2014,1800,Petrol,Manual,No,Touring,DIN44,SMF,44,12,756,278,173,225,Top Post,B13,L,Bosch Catalog
+Subaru,Forester,2020,1300,Diesel,Auto,No,Standard,DIN55,SMF,55,12,436,260,175,175,Top Post,B13,R,Manufacturer Manual
+BMW,320i,2024,1500,Diesel,Auto,No,Touring,DIN55,SMF,55,12,684,260,173,225,Top Post,B13,R,Exide Catalog
+BMW,X3,2021,2500,Petrol,Auto,No,Touring,DIN44,SMF,44,12,440,260,175,175,Top Post,B13,R,Battery Finder Database
+Mazda,Demio,2024,1600,Petrol,Auto,Yes,Sport,AGM80,AGM,80,12,467,260,173,175,Top Post,B13,R,Exide Catalog
+Mazda,CX-9,2020,1300,Diesel,Manual,No,Standard,DIN44,SMF,44,12,758,278,175,225,Top Post,B13,L,Battery Finder Database
+Volkswagen,Golf,2021,3000,Diesel,Manual,No,Touring,DIN44,SMF,44,12,603,278,175,190,Top Post,B13,R,Battery Finder Database
+Subaru,Forester,2024,2200,Petrol,Manual,No,Base,DIN55,SMF,55,12,541,242,173,190,Top Post,B13,L,Battery Finder Database
+Mercedes,GLA,2013,2000,Diesel,Auto,No,Touring,DIN55,SMF,55,12,607,278,175,190,Top Post,B13,R,Manufacturer Manual
+Nissan,Navara,2014,1800,Diesel,Auto,Yes,Premium,EFB60,EFB,60,12,533,260,173,225,Top Post,B13,L,Bosch Catalog
+Mercedes,GLE,2023,2500,Petrol,Manual,No,Sport,DIN55,SMF,55,12,719,260,173,175,Top Post,B13,L,Bosch Catalog
+Nissan,Navara,2023,2500,Petrol,Manual,No,Base,DIN55,SMF,55,12,787,278,175,175,Top Post,B13,L,Manufacturer Manual
+Toyota,Corolla,2013,2000,Diesel,Auto,Yes,Touring,AGM80,AGM,80,12,710,315,173,225,Top Post,B13,L,Battery Finder Database
+Honda,Accord,2015,1600,Petrol,Manual,Yes,Premium,EFB60,EFB,60,12,434,260,173,175,Top Post,B13,L,Battery Finder Database
+BMW,118i,2019,2200,Diesel,Manual,No,Touring,DIN44,SMF,44,12,764,315,173,225,Top Post,B13,R,Exide Catalog
+Honda,CR-V,2022,2000,Diesel,Auto,No,Base,DIN55,SMF,55,12,787,315,175,175,Top Post,B13,L,Battery Finder Database
+Mazda,CX-9,2016,1300,Diesel,Auto,No,Premium,DIN55,SMF,55,12,489,260,173,225,Top Post,B13,L,Battery Finder Database
+BMW,320i,2021,3000,Petrol,Auto,Yes,Sport,AGM80,AGM,80,12,723,260,173,175,Top Post,B13,R,Bosch Catalog
+Subaru,Legacy,2019,2000,Diesel,Manual,No,Base,DIN55,SMF,55,12,444,260,173,175,Top Post,B13,L,Manufacturer Manual
+Volkswagen,Golf,2018,1300,Diesel,Manual,Yes,Premium,AGM70,AGM,70,12,513,315,175,225,Top Post,B13,L,Exide Catalog
+Subaru,Forester,2023,2200,Diesel,Auto,No,Touring,DIN55,SMF,55,12,765,260,175,190,Top Post,B13,R,Manufacturer Manual
+Hyundai,i20,2014,1300,Diesel,Manual,No,Standard,DIN44,SMF,44,12,524,242,175,175,Top Post,B13,L,Manufacturer Manual
+Toyota,Hilux,2015,3000,Petrol,Manual,No,Premium,DIN55,SMF,55,12,490,278,173,175,Top Post,B13,L,Exide Catalog
+BMW,X5,2020,1500,Petrol,Manual,Yes,Base,EFB65,EFB,65,12,461,315,175,175,Top Post,B13,L,Exide Catalog
+Mazda,CX-9,2017,2200,Diesel,Manual,No,Standard,DIN44,SMF,44,12,676,315,175,190,Top Post,B13,R,Bosch Catalog
+Kia,Sorento,2012,1500,Petrol,Manual,Yes,Premium,EFB65,EFB,65,12,557,315,173,190,Top Post,B13,L,Manufacturer Manual
+Kia,Cerato,2012,1500,Petrol,Auto,No,Sport,DIN44,SMF,44,12,516,242,173,175,Top Post,B13,L,Bosch Catalog
+Kia,Rio,2015,1500,Diesel,Manual,No,Touring,DIN55,SMF,55,12,707,278,173,225,Top Post,B13,L,Battery Finder Database
+Volkswagen,Golf,2022,2200,Diesel,Auto,Yes,Premium,EFB60,EFB,60,12,599,242,173,225,Top Post,B13,R,Manufacturer Manual
+Nissan,Navara,2020,1500,Diesel,Auto,Yes,Standard,AGM70,AGM,70,12,768,242,173,190,Top Post,B13,L,Exide Catalog
+Subaru,Impreza,2013,1300,Petrol,Manual,No,Touring,DIN44,SMF,44,12,741,315,175,225,Top Post,B13,R,Exide Catalog
+Hyundai,Tucson,2020,3000,Diesel,Auto,Yes,Standard,AGM70,AGM,70,12,463,315,175,175,Top Post,B13,R,Manufacturer Manual
+Honda,CR-V,2013,1800,Petrol,Manual,No,Base,DIN55,SMF,55,12,661,260,173,175,Top Post,B13,R,Battery Finder Database
+Mercedes,GLA,2020,1300,Diesel,Manual,No,Sport,DIN44,SMF,44,12,500,242,173,190,Top Post,B13,R,Bosch Catalog
+Mazda,CX-3,2023,2200,Diesel,Auto,Yes,Base,AGM70,AGM,70,12,710,315,173,175,Top Post,B13,R,Bosch Catalog
+Mercedes,C200,2021,3000,Diesel,Manual,Yes,Base,EFB60,EFB,60,12,539,278,173,175,Top Post,B13,L,Exide Catalog
+Mazda,CX-9,2012,1300,Petrol,Auto,Yes,Standard,EFB65,EFB,65,12,448,278,173,190,Top Post,B13,L,Bosch Catalog
+Hyundai,Tucson,2013,1500,Petrol,Auto,No,Base,DIN44,SMF,44,12,788,278,173,190,Top Post,B13,L,Bosch Catalog
+Subaru,Legacy,2020,3000,Diesel,Manual,Yes,Sport,AGM80,AGM,80,12,653,278,175,225,Top Post,B13,L,Manufacturer Manual
+Honda,Accord,2018,2500,Petrol,Manual,No,Premium,DIN55,SMF,55,12,785,315,173,225,Top Post,B13,L,Manufacturer Manual
+Honda,Fit,2019,1300,Petrol,Manual,Yes,Premium,AGM70,AGM,70,12,443,315,173,175,Top Post,B13,R,Battery Finder Database
+Volkswagen,Passat,2015,1300,Diesel,Manual,Yes,Standard,AGM70,AGM,70,12,789,315,173,175,Top Post,B13,R,Exide Catalog
+Nissan,Note,2013,1500,Diesel,Manual,No,Sport,DIN55,SMF,55,12,670,278,173,190,Top Post,B13,R,Manufacturer Manual
+Kia,Sportage,2021,3000,Diesel,Manual,No,Touring,DIN55,SMF,55,12,766,242,175,175,Top Post,B13,L,Exide Catalog
+Toyota,Prado,2022,1800,Diesel,Manual,Yes,Standard,AGM80,AGM,80,12,763,278,175,190,Top Post,B13,L,Manufacturer Manual
+Toyota,Prado,2017,1600,Petrol,Auto,No,Standard,DIN44,SMF,44,12,681,242,173,190,Top Post,B13,R,Manufacturer Manual
+Subaru,Outback,2012,2500,Diesel,Auto,No,Base,DIN55,SMF,55,12,497,242,175,225,Top Post,B13,R,Bosch Catalog
+Mercedes,E300,2016,2000,Petrol,Auto,Yes,Base,AGM80,AGM,80,12,439,242,173,175,Top Post,B13,L,Manufacturer Manual
+Hyundai,i20,2022,1600,Diesel,Auto,Yes,Base,EFB60,EFB,60,12,694,242,173,190,Top Post,B13,L,Manufacturer Manual
+Toyota,Land Cruiser,2013,2000,Diesel,Manual,No,Touring,DIN55,SMF,55,12,707,260,173,190,Top Post,B13,L,Manufacturer Manual
+BMW,X3,2018,1600,Petrol,Auto,No,Premium,DIN55,SMF,55,12,590,278,173,190,Top Post,B13,R,Bosch Catalog
+Honda,CR-V,2020,1800,Diesel,Auto,No,Standard,DIN44,SMF,44,12,526,315,175,175,Top Post,B13,L,Battery Finder Database
+Mazda,Demio,2016,1600,Diesel,Manual,No,Standard,DIN44,SMF,44,12,546,242,175,190,Top Post,B13,R,Exide Catalog
+Kia,Cerato,2016,3000,Petrol,Auto,Yes,Touring,AGM80,AGM,80,12,749,278,175,175,Top Post,B13,L,Battery Finder Database
+Mazda,Demio,2012,2500,Petrol,Manual,No,Standard,DIN55,SMF,55,12,448,242,173,190,Top Post,B13,L,Bosch Catalog
+Honda,CR-V,2015,3000,Petrol,Manual,Yes,Touring,AGM70,AGM,70,12,671,278,175,225,Top Post,B13,L,Manufacturer Manual
+Kia,Sportage,2014,1600,Diesel,Manual,Yes,Standard,AGM70,AGM,70,12,605,278,173,190,Top Post,B13,L,Manufacturer Manual
+Hyundai,Tucson,2019,3000,Diesel,Auto,Yes,Standard,AGM70,AGM,70,12,531,278,175,175,Top Post,B13,L,Manufacturer Manual
+Subaru,Impreza,2020,2000,Diesel,Manual,Yes,Sport,AGM70,AGM,70,12,482,242,175,190,Top Post,B13,R,Manufacturer Manual
+BMW,320i,2014,1800,Diesel,Manual,Yes,Base,EFB60,EFB,60,12,556,315,173,225,Top Post,B13,L,Exide Catalog
+Subaru,Forester,2021,2500,Diesel,Manual,No,Standard,DIN44,SMF,44,12,533,278,173,175,Top Post,B13,L,Exide Catalog
+Honda,Fit,2020,1600,Diesel,Auto,Yes,Touring,AGM70,AGM,70,12,660,315,175,190,Top Post,B13,R,Manufacturer Manual
+Mercedes,A200,2016,2500,Diesel,Auto,Yes,Base,EFB60,EFB,60,12,519,242,173,225,Top Post,B13,R,Bosch Catalog
+Kia,Sorento,2022,1800,Petrol,Manual,No,Premium,DIN44,SMF,44,12,781,242,175,175,Top Post,B13,L,Manufacturer Manual
+Subaru,Outback,2015,2000,Diesel,Auto,Yes,Touring,AGM70,AGM,70,12,713,315,175,225,Top Post,B13,L,Manufacturer Manual
+BMW,X5,2018,3000,Diesel,Auto,No,Sport,DIN44,SMF,44,12,488,242,175,225,Top Post,B13,L,Battery Finder Database
+Kia,Sportage,2018,1600,Diesel,Manual,No,Sport,DIN44,SMF,44,12,636,315,175,225,Top Post,B13,L,Exide Catalog
+Volkswagen,Polo,2017,1600,Diesel,Auto,Yes,Standard,AGM80,AGM,80,12,716,278,173,225,Top Post,B13,L,Manufacturer Manual
+Volkswagen,Passat,2024,1600,Diesel,Auto,Yes,Standard,EFB60,EFB,60,12,529,278,173,175,Top Post,B13,L,Exide Catalog
+Mazda,Demio,2024,1600,Diesel,Auto,No,Standard,DIN44,SMF,44,12,425,242,173,190,Top Post,B13,R,Exide Catalog
+BMW,118i,2020,2000,Diesel,Auto,No,Standard,DIN55,SMF,55,12,534,242,173,225,Top Post,B13,L,Battery Finder Database
+Hyundai,Santa Fe,2019,2000,Diesel,Manual,No,Base,DIN55,SMF,55,12,586,315,173,225,Top Post,B13,R,Exide Catalog
+Mazda,Axela,2024,2200,Diesel,Manual,No,Sport,DIN55,SMF,55,12,607,242,173,190,Top Post,B13,L,Battery Finder Database
+Subaru,Forester,2012,2200,Diesel,Auto,Yes,Standard,EFB65,EFB,65,12,680,278,175,190,Top Post,B13,L,Battery Finder Database
+Honda,Civic,2013,2000,Diesel,Auto,Yes,Premium,EFB60,EFB,60,12,559,278,175,175,Top Post,B13,L,Exide Catalog
+Volkswagen,Golf,2023,1300,Diesel,Manual,Yes,Touring,EFB65,EFB,65,12,454,260,173,175,Top Post,B13,R,Battery Finder Database
+Nissan,Qashqai,2023,1600,Diesel,Manual,Yes,Touring,AGM70,AGM,70,12,553,242,173,190,Top Post,B13,R,Manufacturer Manual
+BMW,320i,2022,1800,Diesel,Manual,No,Base,DIN55,SMF,55,12,616,278,173,175,Top Post,B13,L,Exide Catalog
+Nissan,Navara,2017,2000,Diesel,Auto,No,Touring,DIN44,SMF,44,12,425,260,173,190,Top Post,B13,L,Manufacturer Manual
+Mercedes,C200,2022,2000,Diesel,Manual,No,Premium,DIN44,SMF,44,12,793,278,173,225,Top Post,B13,L,Battery Finder Database
+Mercedes,GLA,2015,1500,Petrol,Auto,Yes,Premium,EFB60,EFB,60,12,735,315,173,225,Top Post,B13,R,Bosch Catalog
+Volkswagen,Polo,2017,1500,Petrol,Auto,No,Sport,DIN55,SMF,55,12,639,260,175,225,Top Post,B13,R,Battery Finder Database
+Volkswagen,Tiguan,2013,2000,Diesel,Manual,Yes,Premium,EFB60,EFB,60,12,485,278,175,190,Top Post,B13,L,Bosch Catalog
+Mercedes,GLE,2015,1300,Diesel,Manual,No,Premium,DIN55,SMF,55,12,757,315,175,190,Top Post,B13,R,Exide Catalog
+Subaru,Impreza,2013,2500,Diesel,Auto,Yes,Sport,AGM70,AGM,70,12,709,315,175,175,Top Post,B13,R,Battery Finder Database
+Toyota,Prado,2020,2200,Petrol,Auto,Yes,Sport,AGM70,AGM,70,12,497,242,173,190,Top Post,B13,L,Bosch Catalog
+Mercedes,E300,2014,2200,Diesel,Auto,Yes,Touring,EFB60,EFB,60,12,554,315,173,175,Top Post,B13,R,Bosch Catalog
+Kia,Sorento,2024,2000,Diesel,Auto,No,Touring,DIN44,SMF,44,12,706,315,173,225,Top Post,B13,R,Battery Finder Database
+BMW,320i,2018,2000,Petrol,Auto,Yes,Premium,EFB60,EFB,60,12,515,315,175,190,Top Post,B13,L,Battery Finder Database
+Hyundai,Tucson,2024,2000,Petrol,Auto,Yes,Sport,EFB60,EFB,60,12,767,242,173,225,Top Post,B13,L,Battery Finder Database
+Nissan,Note,2012,1600,Petrol,Manual,No,Standard,DIN55,SMF,55,12,627,315,175,190,Top Post,B13,R,Manufacturer Manual
+Honda,Accord,2024,1800,Petrol,Manual,Yes,Sport,AGM70,AGM,70,12,479,260,175,190,Top Post,B13,L,Manufacturer Manual
+Nissan,Note,2023,1800,Diesel,Manual,Yes,Sport,AGM80,AGM,80,12,680,242,173,225,Top Post,B13,R,Battery Finder Database
+Mazda,Axela,2024,1600,Petrol,Auto,Yes,Base,EFB65,EFB,65,12,555,315,175,190,Top Post,B13,L,Manufacturer Manual
+Mercedes,GLA,2015,2200,Petrol,Auto,No,Standard,DIN44,SMF,44,12,622,260,173,225,Top Post,B13,L,Exide Catalog
+Toyota,RAV4,2024,1500,Petrol,Auto,No,Premium,DIN44,SMF,44,12,451,242,175,190,Top Post,B13,L,Manufacturer Manual
+Mercedes,E300,2021,3000,Diesel,Auto,Yes,Touring,AGM80,AGM,80,12,746,260,173,190,Top Post,B13,R,Manufacturer Manual
+Honda,CR-V,2013,1300,Diesel,Auto,No,Premium,DIN55,SMF,55,12,692,315,175,225,Top Post,B13,R,Battery Finder Database
+Nissan,Note,2017,1600,Petrol,Manual,Yes,Touring,EFB60,EFB,60,12,432,242,175,190,Top Post,B13,L,Exide Catalog
+Toyota,Fielder,2012,3000,Petrol,Manual,No,Sport,DIN55,SMF,55,12,483,315,175,190,Top Post,B13,L,Exide Catalog
+Mazda,Axela,2013,2200,Petrol,Manual,No,Base,DIN44,SMF,44,12,684,260,173,190,Top Post,B13,R,Manufacturer Manual
+Honda,Civic,2012,2500,Diesel,Manual,Yes,Sport,AGM80,AGM,80,12,519,315,173,175,Top Post,B13,L,Bosch Catalog
+BMW,X5,2021,3000,Petrol,Auto,Yes,Standard,EFB65,EFB,65,12,566,315,175,225,Top Post,B13,R,Battery Finder Database
+BMW,320i,2020,2200,Diesel,Auto,Yes,Sport,EFB65,EFB,65,12,796,278,175,190,Top Post,B13,R,Battery Finder Database
+Subaru,Forester,2024,3000,Petrol,Manual,Yes,Sport,EFB60,EFB,60,12,541,260,173,190,Top Post,B13,L,Bosch Catalog
+Hyundai,i20,2024,2000,Petrol,Manual,Yes,Standard,AGM80,AGM,80,12,599,242,173,175,Top Post,B13,L,Manufacturer Manual
+Volkswagen,Polo,2017,3000,Petrol,Auto,Yes,Sport,AGM80,AGM,80,12,786,242,173,190,Top Post,B13,L,Exide Catalog
+Kia,Rio,2014,2000,Diesel,Manual,No,Sport,DIN55,SMF,55,12,564,260,175,225,Top Post,B13,L,Manufacturer Manual
+Honda,Accord,2017,2500,Petrol,Auto,Yes,Touring,AGM80,AGM,80,12,628,315,175,225,Top Post,B13,R,Battery Finder Database
+Mazda,CX-3,2013,1600,Petrol,Auto,Yes,Touring,EFB65,EFB,65,12,479,315,175,225,Top Post,B13,R,Exide Catalog
+Mazda,Axela,2013,2500,Petrol,Manual,Yes,Sport,AGM70,AGM,70,12,767,242,175,190,Top Post,B13,L,Manufacturer Manual
+Kia,Sportage,2012,1500,Petrol,Auto,Yes,Premium,AGM80,AGM,80,12,422,242,175,190,Top Post,B13,L,Exide Catalog
+BMW,320i,2023,1300,Diesel,Auto,No,Premium,DIN44,SMF,44,12,486,242,175,190,Top Post,B13,L,Exide Catalog
+BMW,X5,2015,1600,Petrol,Auto,No,Touring,DIN55,SMF,55,12,505,278,175,175,Top Post,B13,L,Manufacturer Manual
+Toyota,Prado,2015,2000,Petrol,Auto,Yes,Sport,AGM80,AGM,80,12,496,278,173,190,Top Post,B13,R,Manufacturer Manual
+Honda,Accord,2013,1300,Diesel,Manual,No,Premium,DIN44,SMF,44,12,464,315,173,225,Top Post,B13,L,Manufacturer Manual
+Subaru,Impreza,2022,1600,Diesel,Manual,Yes,Premium,EFB60,EFB,60,12,644,315,175,190,Top Post,B13,R,Exide Catalog
+Mercedes,GLA,2013,1500,Diesel,Manual,No,Premium,DIN44,SMF,44,12,467,242,173,225,Top Post,B13,R,Manufacturer Manual
+BMW,X3,2018,1600,Petrol,Auto,Yes,Touring,EFB65,EFB,65,12,749,315,173,190,Top Post,B13,L,Manufacturer Manual
+Hyundai,i20,2012,3000,Petrol,Manual,Yes,Standard,AGM80,AGM,80,12,468,260,173,175,Top Post,B13,R,Bosch Catalog
+Mercedes,E300,2013,2200,Diesel,Manual,No,Premium,DIN55,SMF,55,12,505,242,173,225,Top Post,B13,L,Bosch Catalog
+Mercedes,C200,2015,1600,Petrol,Auto,Yes,Standard,AGM80,AGM,80,12,514,278,173,225,Top Post,B13,L,Manufacturer Manual
+Nissan,Note,2016,3000,Diesel,Auto,Yes,Premium,AGM70,AGM,70,12,556,260,173,175,Top Post,B13,R,Battery Finder Database
+Hyundai,Elantra,2014,1500,Petrol,Manual,No,Sport,DIN44,SMF,44,12,782,242,175,225,Top Post,B13,L,Manufacturer Manual
+Mazda,Demio,2020,1300,Petrol,Manual,Yes,Touring,AGM70,AGM,70,12,774,278,173,175,Top Post,B13,R,Battery Finder Database
+Subaru,Outback,2013,1600,Petrol,Manual,Yes,Touring,EFB60,EFB,60,12,475,260,175,190,Top Post,B13,L,Manufacturer Manual
+Hyundai,Tucson,2021,3000,Petrol,Auto,Yes,Base,EFB60,EFB,60,12,442,278,175,225,Top Post,B13,R,Battery Finder Database
+Honda,Civic,2021,3000,Petrol,Manual,Yes,Premium,EFB65,EFB,65,12,455,260,173,190,Top Post,B13,L,Battery Finder Database
+Volkswagen,Tiguan,2013,3000,Petrol,Auto,Yes,Sport,EFB65,EFB,65,12,579,315,175,225,Top Post,B13,R,Bosch Catalog
+BMW,X3,2012,2200,Diesel,Auto,No,Standard,DIN44,SMF,44,12,775,242,175,190,Top Post,B13,R,Manufacturer Manual
+BMW,X5,2017,2500,Petrol,Manual,Yes,Sport,EFB60,EFB,60,12,487,278,175,190,Top Post,B13,R,Exide Catalog
+BMW,118i,2016,1300,Petrol,Manual,Yes,Sport,EFB60,EFB,60,12,465,278,173,175,Top Post,B13,R,Battery Finder Database
+Honda,Fit,2023,3000,Petrol,Auto,No,Standard,DIN55,SMF,55,12,800,315,175,190,Top Post,B13,R,Exide Catalog
+Subaru,Legacy,2019,1500,Diesel,Auto,No,Sport,DIN44,SMF,44,12,448,315,173,225,Top Post,B13,L,Exide Catalog
+Honda,Fit,2019,2200,Diesel,Manual,No,Standard,DIN55,SMF,55,12,789,242,173,225,Top Post,B13,L,Battery Finder Database
+Honda,Accord,2016,2000,Diesel,Auto,No,Premium,DIN44,SMF,44,12,450,278,175,175,Top Post,B13,L,Manufacturer Manual
+Mazda,Demio,2013,1600,Diesel,Auto,Yes,Premium,EFB60,EFB,60,12,591,315,175,190,Top Post,B13,L,Battery Finder Database
+Hyundai,Tucson,2016,1300,Petrol,Manual,No,Standard,DIN44,SMF,44,12,767,278,173,175,Top Post,B13,L,Manufacturer Manual
+Toyota,Hilux,2024,2200,Diesel,Manual,Yes,Touring,EFB65,EFB,65,12,590,278,175,225,Top Post,B13,L,Bosch Catalog
+Mazda,CX-3,2021,2500,Diesel,Auto,No,Sport,DIN44,SMF,44,12,652,260,175,175,Top Post,B13,L,Bosch Catalog
+Honda,Fit,2022,1500,Diesel,Manual,Yes,Standard,EFB60,EFB,60,12,471,278,173,175,Top Post,B13,R,Bosch Catalog
+Nissan,Navara,2018,2200,Diesel,Manual,No,Touring,DIN55,SMF,55,12,638,315,173,190,Top Post,B13,L,Bosch Catalog
+Nissan,Note,2014,1300,Diesel,Auto,Yes,Touring,AGM70,AGM,70,12,589,315,175,225,Top Post,B13,L,Manufacturer Manual
+Mercedes,GLE,2012,2000,Diesel,Manual,No,Touring,DIN55,SMF,55,12,513,260,173,225,Top Post,B13,R,Bosch Catalog
+Volkswagen,Golf,2020,1500,Diesel,Auto,Yes,Standard,EFB60,EFB,60,12,527,260,173,190,Top Post,B13,L,Battery Finder Database
+Nissan,Note,2021,2200,Diesel,Auto,Yes,Sport,EFB60,EFB,60,12,554,315,173,175,Top Post,B13,L,Exide Catalog
+Toyota,RAV4,2024,1800,Diesel,Manual,Yes,Base,AGM80,AGM,80,12,478,242,173,175,Top Post,B13,R,Manufacturer Manual
+BMW,320i,2019,1800,Petrol,Manual,No,Sport,DIN55,SMF,55,12,756,242,173,225,Top Post,B13,R,Exide Catalog
+Volkswagen,Polo,2012,1500,Petrol,Auto,No,Touring,DIN55,SMF,55,12,456,242,175,225,Top Post,B13,R,Battery Finder Database
+BMW,118i,2023,2200,Diesel,Auto,No,Premium,DIN55,SMF,55,12,657,315,173,225,Top Post,B13,R,Bosch Catalog
+Subaru,Forester,2017,1500,Diesel,Auto,No,Base,DIN44,SMF,44,12,582,278,173,225,Top Post,B13,L,Battery Finder Database
+Nissan,Navara,2017,3000,Petrol,Auto,Yes,Premium,AGM80,AGM,80,12,641,260,175,175,Top Post,B13,R,Bosch Catalog
+Volkswagen,Tiguan,2023,1500,Diesel,Auto,Yes,Premium,AGM70,AGM,70,12,738,242,175,190,Top Post,B13,R,Exide Catalog
+Subaru,Legacy,2012,2000,Diesel,Manual,Yes,Standard,AGM80,AGM,80,12,428,260,175,225,Top Post,B13,L,Bosch Catalog
+Honda,Accord,2012,2500,Petrol,Auto,Yes,Premium,EFB60,EFB,60,12,441,315,175,225,Top Post,B13,R,Bosch Catalog
+Hyundai,Tucson,2013,1500,Diesel,Auto,Yes,Base,EFB60,EFB,60,12,766,278,175,225,Top Post,B13,L,Battery Finder Database
+Mercedes,GLA,2012,2000,Diesel,Manual,Yes,Standard,AGM70,AGM,70,12,756,242,175,175,Top Post,B13,L,Exide Catalog
+Mercedes,E300,2014,2500,Diesel,Manual,No,Touring,DIN44,SMF,44,12,726,278,175,190,Top Post,B13,R,Manufacturer Manual
+Mercedes,A200,2023,1300,Diesel,Manual,Yes,Touring,AGM80,AGM,80,12,590,260,173,190,Top Post,B13,R,Exide Catalog
+Toyota,Corolla,2020,1300,Petrol,Auto,Yes,Sport,AGM80,AGM,80,12,750,278,175,190,Top Post,B13,L,Bosch Catalog
+BMW,X5,2024,1300,Petrol,Manual,Yes,Premium,AGM80,AGM,80,12,478,278,173,225,Top Post,B13,R,Manufacturer Manual
+Mercedes,GLA,2017,2500,Petrol,Manual,Yes,Base,AGM80,AGM,80,12,488,278,173,190,Top Post,B13,L,Exide Catalog
+Kia,Sportage,2021,1500,Diesel,Manual,No,Touring,DIN44,SMF,44,12,523,315,173,190,Top Post,B13,R,Manufacturer Manual
+Toyota,Land Cruiser,2020,1600,Petrol,Manual,No,Touring,DIN55,SMF,55,12,771,260,175,175,Top Post,B13,R,Bosch Catalog
+Toyota,RAV4,2018,1300,Petrol,Manual,No,Sport,DIN55,SMF,55,12,602,315,175,225,Top Post,B13,L,Manufacturer Manual
+Hyundai,Elantra,2018,2000,Diesel,Auto,Yes,Standard,EFB60,EFB,60,12,671,242,173,175,Top Post,B13,L,Bosch Catalog
+Nissan,X-Trail,2014,1500,Petrol,Auto,No,Standard,DIN44,SMF,44,12,614,315,173,190,Top Post,B13,R,Battery Finder Database
+Hyundai,i20,2017,2200,Diesel,Auto,No,Sport,DIN44,SMF,44,12,641,278,173,190,Top Post,B13,R,Exide Catalog
+Toyota,Corolla,2015,2500,Petrol,Auto,No,Base,DIN44,SMF,44,12,612,260,173,175,Top Post,B13,L,Battery Finder Database
+Nissan,Note,2014,1600,Petrol,Auto,No,Touring,DIN55,SMF,55,12,435,260,175,225,Top Post,B13,L,Bosch Catalog
+Hyundai,Elantra,2013,2000,Petrol,Auto,Yes,Sport,EFB65,EFB,65,12,538,315,175,175,Top Post,B13,R,Bosch Catalog
+Toyota,Axio,2015,3000,Diesel,Manual,Yes,Touring,AGM80,AGM,80,12,557,278,175,225,Top Post,B13,R,Exide Catalog
+BMW,118i,2020,2500,Diesel,Auto,No,Sport,DIN44,SMF,44,12,582,242,173,190,Top Post,B13,L,Bosch Catalog
+Subaru,Outback,2019,1800,Petrol,Manual,Yes,Base,AGM70,AGM,70,12,688,260,173,225,Top Post,B13,R,Exide Catalog
+Hyundai,i20,2014,2000,Petrol,Manual,Yes,Base,EFB60,EFB,60,12,693,260,173,175,Top Post,B13,R,Manufacturer Manual
+Hyundai,Elantra,2018,1800,Petrol,Auto,No,Premium,DIN44,SMF,44,12,629,278,173,190,Top Post,B13,L,Battery Finder Database
+Mazda,Demio,2016,1500,Diesel,Auto,Yes,Standard,EFB60,EFB,60,12,768,315,173,225,Top Post,B13,L,Manufacturer Manual
+Hyundai,Santa Fe,2024,1800,Diesel,Manual,No,Sport,DIN44,SMF,44,12,585,315,175,190,Top Post,B13,L,Bosch Catalog
+Mercedes,C200,2012,1800,Petrol,Auto,No,Base,DIN55,SMF,55,12,599,315,173,225,Top Post,B13,L,Bosch Catalog
+Mercedes,C200,2013,2200,Diesel,Auto,Yes,Base,AGM80,AGM,80,12,721,242,173,225,Top Post,B13,R,Bosch Catalog
+Honda,Civic,2016,1800,Diesel,Auto,Yes,Base,AGM70,AGM,70,12,546,260,175,175,Top Post,B13,L,Bosch Catalog
+Subaru,Forester,2012,1800,Petrol,Auto,Yes,Premium,EFB60,EFB,60,12,522,278,173,190,Top Post,B13,L,Exide Catalog
+Mercedes,GLA,2018,1300,Petrol,Manual,No,Base,DIN44,SMF,44,12,604,278,173,225,Top Post,B13,L,Battery Finder Database
+Nissan,X-Trail,2024,1600,Petrol,Auto,Yes,Touring,EFB60,EFB,60,12,577,260,175,225,Top Post,B13,L,Exide Catalog
+Hyundai,Elantra,2015,2500,Petrol,Auto,No,Base,DIN44,SMF,44,12,614,242,175,175,Top Post,B13,R,Manufacturer Manual
